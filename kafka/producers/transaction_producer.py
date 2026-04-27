@@ -22,4 +22,3 @@ while True:
     print(f"Sent: {event}")
 
     time.sleep(2)
-    
